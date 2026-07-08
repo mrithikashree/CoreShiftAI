@@ -1,0 +1,12 @@
+Exported backups and snapshots
+
+For project backups.
+
+Examples:
+
+Database exports
+Project snapshots
+ZIP archives
+Final release packages
+
+This is not your Windows backup folder—it's project-specific.

@@ -1,0 +1,10 @@
+API specifications, Postman collections
+
+All API-related work.
+
+Examples:
+
+API documentation
+Endpoint list
+Postman collections
+Sample JSON requests/responses

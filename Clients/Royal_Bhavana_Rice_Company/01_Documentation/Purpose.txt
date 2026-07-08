@@ -1,0 +1,15 @@
+BRD, FRS, DAD, ERD, proposals, meeting notes
+
+Examples:
+
+✅ BRD
+✅ FRS
+✅ User Story Document
+✅ Product Backlog
+✅ DAD
+✅ ER Diagram
+✅ API Specification
+✅ Meeting MOM (Minutes of Meeting)
+✅ Client approvals
+
+These are living documents. As we create them, you'll save them here. If we update a document, either overwrite the current version or keep versioned copies (e.g., BRD_v1.0.docx, BRD_v1.1.docx).

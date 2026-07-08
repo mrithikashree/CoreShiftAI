@@ -1,0 +1,18 @@
+Database schema, SQL scripts, migrations
+
+This folder will grow during development.
+
+Examples:
+
+Database schema
+Table creation scripts
+Seed data
+Views
+Functions
+Backup SQL files
+
+Example:
+
+01_Create_Tables.sql
+02_Insert_Master_Data.sql
+03_Create_Views.sql

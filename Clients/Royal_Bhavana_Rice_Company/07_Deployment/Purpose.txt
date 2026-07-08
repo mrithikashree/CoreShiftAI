@@ -1,0 +1,12 @@
+Deployment checklist, production notes
+
+Everything related to production.
+
+Examples:
+
+Deployment checklist
+Domain information
+DNS records
+Environment variables (never store secrets in plain text)
+Go-live checklist
+Rollback plan

@@ -1,0 +1,11 @@
+What goes in 00_Project_Admin?
+
+Project proposal
+Client quotation
+Invoice
+Payment receipts
+Contract/NDA (if applicable)
+Timeline
+Milestone tracker
+
+This keeps the business administration separate from the technical work.

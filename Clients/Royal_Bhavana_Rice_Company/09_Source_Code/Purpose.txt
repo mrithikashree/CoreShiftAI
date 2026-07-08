@@ -1,0 +1,10 @@
+Local project files (if needed)
+
+If you ever download/export code from Lovable or create supporting scripts, store them here.
+
+Examples:
+
+Exported project code
+Custom JavaScript
+CSS
+SQL helper scripts

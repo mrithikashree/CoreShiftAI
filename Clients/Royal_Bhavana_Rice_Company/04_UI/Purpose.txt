@@ -1,0 +1,15 @@
+Wireframes, UI designs, icons, design assets
+
+Everything related to design.
+
+Examples:
+
+Wireframes
+Landing page mockups
+Dashboard layouts
+Color palette
+Icons
+UI screenshots
+Design references
+
+Later, when we create UI screenshots from Lovable, you can archive milestone screenshots here.

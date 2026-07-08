@@ -1,0 +1,11 @@
+Test cases, bug reports, UAT documents
+
+Quality Assurance.
+
+Examples:
+
+Test cases
+Bug list
+UAT checklist
+Client testing feedback
+Regression test notes

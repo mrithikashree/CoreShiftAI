@@ -1,0 +1,21 @@
+Client discussions, decisions, action items
+
+Every client interaction should be documented.
+
+Example:
+
+2026-07-09_Client_Meeting.md
+
+Agenda:
+- Landing page approved
+- CRM discussed
+
+Decisions:
+- Multiple product enquiry
+- Hot/Warm/Cold lead priority
+
+Action Items:
+- Client to send product images
+- CoreShift AI to build Sprint 1
+
+This habit becomes invaluable months later when someone asks, "Why did we implement it this way?"
