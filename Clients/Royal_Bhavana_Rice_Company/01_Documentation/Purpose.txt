@@ -2,8 +2,8 @@ BRD, FRS, DAD, ERD, proposals, meeting notes
 
 Examples:
 
-✅ BRD
-✅ FRS
+✅ BRD → Business Requirement Document
+✅ FRS → Functional Requirement Document
 ✅ User Story Document
 ✅ Product Backlog
 ✅ DAD
@@ -11,5 +11,13 @@ Examples:
 ✅ API Specification
 ✅ Meeting MOM (Minutes of Meeting)
 ✅ Client approvals
+
+UI_UX → Wireframes, mockups, design guidelines
+Database → ER diagrams, schema, SQL scripts
+Architecture → System design and integration diagrams
+Meeting_Minutes → Notes from client discussions
+API_Documentation → Integration specifications
+Deployment → Deployment guides and environment setup
+Testing → Test cases, UAT, and QA reports
 
 These are living documents. As we create them, you'll save them here. If we update a document, either overwrite the current version or keep versioned copies (e.g., BRD_v1.0.docx, BRD_v1.1.docx).
